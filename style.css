@@ -32,6 +32,9 @@ input[type="range"] {
 
 input[type="text"] {
     width: 30px;
+    font-family: inherit;
+    font-weight: 700;
+    text-align: center;
 }
 
 body {
