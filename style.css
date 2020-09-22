@@ -44,7 +44,7 @@ main {
     margin: 8rem auto;
     padding: 2rem;
     border-radius: 20px;
-    border-top: 5px solid #000;
+    border-top: 5px solid rgb(0, 0, 0);
     box-shadow: 0 3px 40px rgba(17, 0, 0, 0.15);
 }
 
